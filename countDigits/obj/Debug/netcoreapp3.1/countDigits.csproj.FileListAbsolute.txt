@@ -1,0 +1,13 @@
+/Users/ceyhunccavadov/Projects/homeWork03.16/countDigits/bin/Debug/netcoreapp3.1/countDigits.deps.json
+/Users/ceyhunccavadov/Projects/homeWork03.16/countDigits/bin/Debug/netcoreapp3.1/countDigits.runtimeconfig.json
+/Users/ceyhunccavadov/Projects/homeWork03.16/countDigits/bin/Debug/netcoreapp3.1/countDigits.runtimeconfig.dev.json
+/Users/ceyhunccavadov/Projects/homeWork03.16/countDigits/bin/Debug/netcoreapp3.1/countDigits.dll
+/Users/ceyhunccavadov/Projects/homeWork03.16/countDigits/bin/Debug/netcoreapp3.1/countDigits.pdb
+/Users/ceyhunccavadov/Projects/homeWork03.16/countDigits/obj/Debug/netcoreapp3.1/countDigits.csproj.AssemblyReference.cache
+/Users/ceyhunccavadov/Projects/homeWork03.16/countDigits/obj/Debug/netcoreapp3.1/countDigits.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ceyhunccavadov/Projects/homeWork03.16/countDigits/obj/Debug/netcoreapp3.1/countDigits.AssemblyInfoInputs.cache
+/Users/ceyhunccavadov/Projects/homeWork03.16/countDigits/obj/Debug/netcoreapp3.1/countDigits.AssemblyInfo.cs
+/Users/ceyhunccavadov/Projects/homeWork03.16/countDigits/obj/Debug/netcoreapp3.1/countDigits.csproj.CoreCompileInputs.cache
+/Users/ceyhunccavadov/Projects/homeWork03.16/countDigits/obj/Debug/netcoreapp3.1/countDigits.dll
+/Users/ceyhunccavadov/Projects/homeWork03.16/countDigits/obj/Debug/netcoreapp3.1/countDigits.pdb
+/Users/ceyhunccavadov/Projects/homeWork03.16/countDigits/obj/Debug/netcoreapp3.1/countDigits.genruntimeconfig.cache
